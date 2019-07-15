@@ -1,0 +1,8 @@
+body { background-color: #ADD8E6; font-family: sans-serif;}
+p { color: DarkSlateBlue; }
+h1, h3 { color: #4B0082; }
+h1 { border-bottom: 1px solid black; }
+h3 {text-decoration: underline; }
+em { font-family: serif; }
+p.prist { color: green; }
+p.rouge {color: orange; }
